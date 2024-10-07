@@ -6,8 +6,6 @@ This repository is used to support the work on **Interoperability in Digital Pro
 
 Come up with a profile that can be used in a multi-credential and identifier type environment and can adapt to differences between the credential type available by the holder and the credential type requested by the verifier.
 
-Integrate a wider 
-
 Harmonize international and European standards and frameworks on DPPs
 
 Implement the profile in practical cases where real-life interoperability can be shown.
